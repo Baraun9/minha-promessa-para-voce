@@ -36,7 +36,7 @@ function song3() {
         btn.textContent = 'Início'
         click = 1;
     } else {
-       window.open("https://baraun9.github.io/minha-promessa-para-voce/");
+       window.open("https://baraun9.github.io/minha-promessa-para-voce/", "_self");
         click = 0;
     }
 }
