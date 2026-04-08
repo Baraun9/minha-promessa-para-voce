@@ -36,7 +36,7 @@ function song3() {
         btn.textContent = 'Início'
         click = 1;
     } else {
-        window.location.href = "../../minha-promessa-para-voce/";
+        window.location.href = "../minha-promessa-para-voce/";
         click = 0;
     }
 }
