@@ -1,0 +1,14 @@
+body {
+  background-color: #07031c;
+}
+
+.container {
+  position: relative;
+}
+
+#stars {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 0;
+}

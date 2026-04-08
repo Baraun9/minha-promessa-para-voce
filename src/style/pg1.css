@@ -1,0 +1,27 @@
+p {
+    color: #145ed4;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+h1 {
+    color: #f70099;
+}
+
+img {
+    height: 200px;
+}
+
+#txt {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 90%;
+}
+
+#img {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
